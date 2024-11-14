@@ -33,4 +33,4 @@ Este notebook utiliza técnicas de visualización y análisis de datos para inte
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/visualizacion-ine.git
+   git clone https://github.com/patilojo/An-lisis-INE-crecimiento-poblaci-n.git
